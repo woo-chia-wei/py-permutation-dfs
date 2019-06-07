@@ -1,2 +1,2 @@
-# py-permutation-dfs
-Permutation of given string suing Breadth First Search 
+# String Permutation
+Permutation of given string using Breadth First Search 
